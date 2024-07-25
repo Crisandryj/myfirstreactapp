@@ -4,7 +4,6 @@ import viteLogo from "/vite.svg";
 import "./App.css";
 import Welcome from "./Greeting";
 import Person from "./Person";
-import React, { useEffect, useState } from "react";
 
 function App() {
   const [count, setCount] = useState(0);

@@ -1,5 +1,3 @@
-import React, { useState } from "react";
-
 function Person() {
   const [person, setPerson] = useState({ name: "John", age: 100 });
 
